@@ -14,5 +14,24 @@ The dataset for this analysis was provided by LITA the Incubator Hub for learnin
 - Mircosoft Excel: for data cleaning, calculation and creating pivot table
 - SQL: Structured Query Language for Quring of data
 - Power BI: to create dashboard that visulizes the insights from Excel and SQL
+- GitHub: for portfolio building
 
-###
+### Data Description
+---
+This dataset includes the following;
+
+CustomerId
+
+CustomerName
+
+Region
+
+SubscriptionType
+
+SubscriptionStart
+
+SubscriptionEnd
+
+Canceled
+
+Revenue
