@@ -1,1 +1,5 @@
-## Lita-Capstone-Project-2
+## LITA PROJECT 2
+
+### Project Title: Lita customer Dataset
+
+### Project Overview
