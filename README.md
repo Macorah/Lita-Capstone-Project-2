@@ -1,6 +1,30 @@
 # LITA PROJECT 2
 ## Project Title: Lita customer Dataset
 
+[Project Overview](#project-overview)
+
+[Data Source](data-source)
+
+[Tools Used](#tools-used)
+
+[Data Description](#data-description)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Data Summary](#data-summary)
+
+[Key Insights](#key-insights)
+
+[Recommendation](#recommendation)
+
+[Conclusion](#conclusion)
+
 ### Project Overview
 ---
 This report aim to analyze the total revenue across different subscription types and differnt regions, summarizing performance, identifying the highest earning subscription type and regions, and providing insights and recommendation
@@ -74,4 +98,40 @@ Calculating average total sales =AVERAGE(H2:H33788) Capture sales data average b
 ![Screenshot (39)](https://github.com/user-attachments/assets/1617492c-7e6c-45b9-b83f-9c259c2038b9)
 ![Screenshot (40)](https://github.com/user-attachments/assets/2dc4438b-1993-4fb8-a425-0a34c35958dd)
 
+### Data Summary 
+---
+The data outlines the revenue obtaine from each region and subscription type:
 
+**Revenue by Region**
+- East: $416,959,763.00
+- North: $16,817,972.00
+- South: $16,899.064.00
+- West: $16,864,376.00
+  
+ **Grand Total: $67,540,175.00**
+
+**Revenue by Subscription Type**
+- Basic: $33,776,735.00
+- Premium: $16,899,064.00
+- Standard: $16,864,376.00
+
+ **Grand Total: $67,540,175.00**
+
+ ### Key Insights
+ ---
+ - The top performing region is the east folllowed closely by the south and north region.
+ - The Basic subscription type dominates for 50 % of the total revenue generated
+ - The revenue is almost evenly distributed across the four regions, indicating a balanced performance.
+
+   ### Recommendation
+   ---
+   * Boost premium and standard subscription
+   * Maintaining the balanced efforts across all regions to sustain a balance distribution of revenue
+   * Regularly gather and analyse curomer feedbacks
+   * offer a catchy features for basic subscribers to upgrade to Premium or Standard
+
+  ### Conclusion
+  ---
+The following insights and recommendation provided can help optimize sales strategies and improve overall performance across different regions and subscription types.
+
+**THANK YOU**
